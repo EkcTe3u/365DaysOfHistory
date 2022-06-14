@@ -12,3 +12,6 @@ So, I will read one article in wiki everyday for one year
 theme - history
 Let's GO
 ```
+```
+make private
+```
